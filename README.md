@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# 💫 About Me:
 Hi! I’m Tewodros Ewunetu, a passionate Full Stack Software Developer from Addis Ababa, Ethiopia. I specialize in building and scaling modern, user-focused applications — from sleek frontends to robust backends.<br><br>Over the years, I’ve worked with teams across startups and tech companies, leading projects and delivering high-quality solutions using Next.js, Angular, Django, Laravel, and Flutter. I enjoy every part of the product lifecycle — from concept and design to development, deployment, and maintenance.<br><br>I love experimenting with new tools and technologies like AI-assisted development (GitHub Copilot, Cursor, OpenAI, Gemini) to make the development process smarter and faster.
 
 
